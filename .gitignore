@@ -1,0 +1,6 @@
+*.gds
+*.odb
+*.def
+*.mag
+*.spice
+runs/

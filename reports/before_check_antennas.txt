@@ -1,0 +1,11 @@
+read_db /openlane/designs/picorv32/runs/layer_hop/results/routing/picorv32.odb
+check_antennas
+
+Net: _06259_
+  Pin: _12662_/A_N (sky130_fd_sc_hd__and2b_1)
+    Layer: met1
+      Partial area ratio:  464.00
+      Required ratio:  400.00 (Side area) (VIOLATED)
+
+[INFO ANT-0002] Found 1 net violations.
+[INFO ANT-0001] Found 1 pin violations.
